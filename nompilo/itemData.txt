@@ -1,0 +1,15 @@
+1,Hisence flat screen 11 inch,a wide large curverd flat screen tv,18000,1.jpg
+2,Mac book 1,Slim and grey mac laptop has 8gb of ram and 2TB SSD and snapdragron high performing chip ,50000,2.jpg
+3,Iphone 6,One of the most boughtand loved iphone of all time,5800,3.jpg
+4,Playstation 4,Sonys newest console currently and trending,5000,4.jpg
+5,HTC mobile ,A small Htc phone has 8gb internal storage and 13 mp on rear camera,700,5.jpg
+6,I nexus,Nexus first generation phone has 15 mp on the rear,500,6.jpg
+7,Samsung galaxy phone,An old model of the samsung galaxy family but has android 6 and 32 gb internal storage,2600,7.jpg
+8,Hybrid speakers,Small and compact blue tooth speakers,1000,8.jpg
+9,Sony headsets,Very loud and sound blocking able to be done cas a soft cushion for the ear,150,9.jpg
+10,HTC mobile 2,A small Htc phone has 16gb internal storage and 15 mp on rear camera,700,10.jpg
+11,Motorola micro cam,A small camera that can be installed in the house for survillance,400,11.jpg
+12,Double side toshiba laptop,A large screen laptop andhas the ability to be flipped 340 degrees and 1080p screen quality,8000,12.jpg
+13,Spy Watch,A watch that will look like a normal old watchbut has a microphone inside it and audio recordings can be done ,4000,13.jpg
+14,Lenovo laptop,Slim and black lenovo laptop has 8gb of ram and 2TB SSD and snapdragron high performing chip,6000,14.jpg
+15,Hp laptop,Slim and black lenovo laptop has 8gb of ram and 2TB SSD and snapdragron high performing chip,6000,15.jpg
